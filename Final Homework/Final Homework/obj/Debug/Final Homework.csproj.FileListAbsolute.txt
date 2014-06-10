@@ -1,0 +1,8 @@
+c:\users\edin\documents\visual studio 2013\Projects\Final Homework\Final Homework\bin\Debug\Final Homework.exe.config
+c:\users\edin\documents\visual studio 2013\Projects\Final Homework\Final Homework\bin\Debug\Final Homework.exe
+c:\users\edin\documents\visual studio 2013\Projects\Final Homework\Final Homework\bin\Debug\Final Homework.pdb
+c:\users\edin\documents\visual studio 2013\Projects\Final Homework\Final Homework\obj\Debug\Final Homework.csprojResolveAssemblyReference.cache
+c:\users\edin\documents\visual studio 2013\Projects\Final Homework\Final Homework\obj\Debug\Final Homework.exe
+c:\users\edin\documents\visual studio 2013\Projects\Final Homework\Final Homework\obj\Debug\Final Homework.pdb
+c:\users\edin\documents\visual studio 2013\Projects\Final Homework\Final Homework\bin\Debug\Edin Imamovic.exe.config
+c:\users\edin\documents\visual studio 2013\Projects\Final Homework\Final Homework\bin\Debug\Homework.exe.config
